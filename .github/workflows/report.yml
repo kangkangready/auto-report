@@ -1,7 +1,7 @@
 name: Auto Report
 on: 
   schedule:
-    - cron: "18 10 * * *"
+    - cron: "30 3 * * *"
   push:
     branches: [main]
 
